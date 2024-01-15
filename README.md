@@ -1,7 +1,7 @@
 # notes-app
 
 Made with React as a clone of Google Keep
-<h2>Features :</h2>
+### Features :
 <ul>
  <li>Create new Notes</li>
 <li>Delete notes 🚮</li>
